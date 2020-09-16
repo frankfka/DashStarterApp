@@ -1,0 +1,7 @@
+/*
+Styles declared here will override the default theme. These styles are globally scoped
+*/
+.app-page {
+    text-align: center;
+    padding: 4em;
+}
