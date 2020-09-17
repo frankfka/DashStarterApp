@@ -6,7 +6,7 @@ from views.home_page.styles import *
 LINKS = [
     ('Dash Docs', 'https://dash.plotly.com/'),
     ('App Gallery', 'https://dash-gallery.plotly.host/Portal/'),
-    ('Starter App Repo', ''),  # TODO
+    ('Starter App Repo', 'https://github.com/frankfka/DashStarterApp'),
     ('Bootstrap Components', 'https://dash-bootstrap-components.opensource.faculty.ai/')
 ]
 
