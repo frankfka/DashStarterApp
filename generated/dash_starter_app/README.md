@@ -1,4 +1,4 @@
-# {{cookiecutter.project_name}}
+# Dash Starter App
 ## Getting Started
 
 `requirements.txt` holds all the required libraries for the Dash application. Set up a Python environment of 

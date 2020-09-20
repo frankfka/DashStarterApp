@@ -1,7 +1,7 @@
 # Regenerate example
 generate-example:
 	# Remove any existing files
-	rm -r ./generated
+	rm -rf ./generated
 	# Regenerate example
 	cookiecutter "$${PWD}/template" -o ./generated --no-input
 
